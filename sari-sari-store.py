@@ -120,3 +120,5 @@ def main():
         
     item = input("\nItem: ")
     print(f"Price for {item} is: {categories[category][item]}")
+
+main()
